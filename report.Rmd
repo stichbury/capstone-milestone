@@ -81,7 +81,7 @@ I will explore the frequencies of the n-grams to answer questions such as "How m
 Thanks for the review :)
 
 ##Code
-Code for my exploratory data analysis is stored at 
+Code for my exploratory data analysis is stored at https://github.com/stichbury/capstone-milestone
 
 
 
